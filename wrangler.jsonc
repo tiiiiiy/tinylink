@@ -27,8 +27,8 @@
   },
   "analytics_engine_datasets": [
     {
-      "binding": "ANALYTICS",
-      "dataset": "sink"
+      "binding": "tinylink_stats",
+      "dataset": "tinylink_analytics"
     }
   ],
   "kv_namespaces": [
